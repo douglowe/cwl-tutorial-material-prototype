@@ -15,4 +15,14 @@ Downloading data files, using wget (each is around 150Mb):
 
 ## Lesson 2 (Shell to CWL)
 
+First lesson is to just run the Fast QC process on the subsampled fruitfly DNA. 
+Much of the lesson will be the same as the current lesson - just need to change wording slightly.
+We should include a paragraph on opening the html file created by the tool - and ask them
+to have a look through the report.
 
+Files:
+- `rna_seq_workflow_lesson2.cwl`
+- `workflow_input_lesson2.yml`
+
+Exercises:
+- Ask the students to get some information from each report generated for the different data files we've downloaded. This will involve them making simple changes to the yaml configuration file.
