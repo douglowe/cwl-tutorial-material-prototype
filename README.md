@@ -26,3 +26,14 @@ Files:
 
 Exercises:
 - Ask the students to get some information from each report generated for the different data files we've downloaded. This will involve them making simple changes to the yaml configuration file.
+
+## Lesson 3 (Developing Multi-Step Workflows)
+
+The Galaxy training material moves on to combining reports for multiple samples. This requires the use of the `MultipleInputFeatureRequirement` requirement - I think we are okay here with using it, with a brief explanation and saying that we will talk more about requirements in future lessons.
+
+Example 1 Files:
+- `rna_seq_workflow_lesson3a.cwl`
+- `workflow_input_lesson3a.yml`
+
+
+

@@ -1,0 +1,9 @@
+rna_reads_fruitfly_a:
+  class: File
+  location: GSM461177_1_subsampled.fastqsanger
+  format: http://edamontology.org/format_1932
+
+rna_reads_fruitfly_b:
+  class: File
+  location: GSM461177_2_subsampled.fastqsanger
+  format: http://edamontology.org/format_1932
